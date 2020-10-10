@@ -126,6 +126,17 @@ address a{
   text-align: center;
 }
 
+.text p{
+font-size: 50px;
+  color: #2b0d78
+  padding: 0 20px;
+  text-align: center;
+  
+}
+
+
+
+}
 #weeks_stats {
 	border-collapse: collapse;
     max-width: 500px;
