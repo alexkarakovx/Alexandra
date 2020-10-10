@@ -82,12 +82,6 @@ ul li.active a{
 
 }
 
-.title h2{
-  color: #5d27ba;
-  font-size: 60px; 
-  text-align: center;
-
-}
 .intro{
 	font-size: 20px;
 	font-style: normal;
@@ -107,8 +101,6 @@ p {
 .title h3{
 	font-size: 50px;
 	color: #2b0d78
-  padding: 0 20px;
-  text-align: center;
 }
 address a{
 	background: aliceblue;
@@ -120,17 +112,7 @@ address a{
 }
 
 
-.text p{
-font-size: 20px;
-  color: #2b0d78
-  padding: 0 20px;
-  text-align: center;
 
-}
-
-
-
-}
 #weeks_stats {
 	border-collapse: collapse;
     max-width: 500px;
